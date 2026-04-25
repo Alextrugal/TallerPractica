@@ -1,9 +1,7 @@
 package com.taller.controlador;
 
-import com.taller.modelo.Docente;
 import com.taller.servicio.DocenteService;
 import com.taller.vista.VistaDocente;
-import java.util.List;
 
 public class ControladorDocente {
     private DocenteService service = new DocenteService();
