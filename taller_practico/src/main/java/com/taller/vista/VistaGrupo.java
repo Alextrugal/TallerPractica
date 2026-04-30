@@ -1,7 +1,6 @@
 package com.taller.vista;
 
 import com.taller.modelo.Grupo;
-import com.taller.modelo.Materia;
 import java.util.List;
 import java.util.Scanner;
 
